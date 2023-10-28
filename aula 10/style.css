@@ -1,0 +1,25 @@
+*{
+    background-color: purple;
+}
+
+.ssoudiv
+{
+    width: 100%;
+    height: 100px;
+    background-color: darkorchid;
+
+}
+
+#soudiv
+
+{
+    width: 100px;
+    height: 100px;
+    background-color: #ff0000;
+}
+
+p.ssoudiv
+{
+    font-size: 28px;
+    
+}
